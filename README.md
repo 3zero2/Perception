@@ -2,4 +2,4 @@
 An subliminal automator workflow for macOS
 
 ## How to use
-Download Get Subtitles.workflow and double click on it to install.
+Download Get Subtitles.workflow.zip, unzip and double click on the file to install.
